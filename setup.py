@@ -9,6 +9,7 @@ setup(
     author_email='icarofua@gmail.com',
     license='MIT',
     install_requires=[
+    'pytorch_lightning==1.0.6',
     'performer-pytorch==0.9',
     'reformer-pytorch==1.2.3',
     'linear-attention-transformer==0.15.0',
